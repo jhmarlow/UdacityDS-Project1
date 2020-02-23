@@ -1,6 +1,7 @@
-# UdacityDS-Project1 Using Cross-Industry Standard Proicess for Data Mining (CRISP-DM)
+# Udacity DataScience NanoDegree Project1: Using Cross-Industry Standard Process for Data Mining (CRISP-DM)
 
 - Business Understanding
+
 The idea of this piece of work is to identify how to find low prices for Airbnb properties around London.
 
 - Data Understanding
