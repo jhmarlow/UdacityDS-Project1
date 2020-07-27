@@ -5,11 +5,11 @@ This repo contains the code used to produce the data analysis and visualistion i
 
 It can be seen that the neighbourhood stayed in affects the price.
 
-** ADD GRaphs
+![alt text](images/dist.png)
 
 Distance to city centre affects price.
 
-** ADD GRaphs
+![alt text](images/monthly_prices.png)
 
 ## Business Understanding
 
