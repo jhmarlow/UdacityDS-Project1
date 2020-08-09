@@ -5,7 +5,7 @@ This repo contains the code used to produce the data analysis and interactive vi
 
 ## Business Understanding
 
-Airbnb has become the go-to marketplace when trying to find a place to stay. However, it can sometimes be overwhelming when faced with a mass of choices, and numerous factors to filter against. In this article, we take a look at Seattle's Airbnb ecosystem. Looking at how location can affect price, how prices change throughout the year, as well as the type of listings available these neighbourhoods.
+Airbnb has become the go-to marketplace when trying to find a place to stay. However, it can sometimes be overwhelming when faced with a mass of choices, and numerous factors to filter against. In the article, we take a look at Seattle's Airbnb ecosystem. Looking at how location can affect price, how prices change throughout the year, as well as the type of listings available these neighbourhoods.
 
 **Questions**:
 1. How does distance to the city centre affect listings?
@@ -16,7 +16,7 @@ Airbnb has become the go-to marketplace when trying to find a place to stay. How
 
 ## Data Understanding
 
-The data was provided from the Kaggle project (https://www.kaggle.com/airbnb/seattle/data). This was taken from the opensource data provided by airbnb (http://insideairbnb.com/get-the-data.html)
+The data was provided from the Kaggle project (https://www.kaggle.com/airbnb/seattle/data) and the opensource datasets provided by airbnb (http://insideairbnb.com/get-the-data.html)
 
 The data made available was:
 - Calendar.csv - listing prices across the year 
